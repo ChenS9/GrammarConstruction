@@ -1,0 +1,216 @@
+Algorithm Optimization & Hyper-Parameter Tuning
+
+    
+It offers RandomsearchCV for random search and GridSearchCV for raster search. We start by performing a random search by first challenging the grid with hyperparameter samples called RandomizedSearchCV. The library evaluates the model with the hyperparameters as vectors using cross-validation and suffixing class names.
+    
+With Scikit-learns best estimator attribute, we can retrieve a number of hyperparameters to conduct training and testing of our model. Remember that hyperparameter tuning, as already mentioned, is a method related to how we scan all possible model architectures and candidate spaces based on the possible hyperparameter values. After training the model, we visualize how changes in its hyperparameters affect the overall model accuracy (Figure 4).
+    
+This example refers to the search space of all possible hyperparameter values for the optimal value. The traditional method for optimizing hyperparameters is a grid search (parameter sweep), which is an exhaustive search for a certain subset of hyperparameter space in the learning algorithm. Random Search Hyper-Parameter Tuning selects a random combination of values within the range you have set for the hyper parameters during training before tuning.
+    
+Since the parameter space of a machine learner contains values in unlimited value spaces, certain parameter sets are out of bounds, and discretization is necessary to apply the grid search. Grid search algorithms are based on performance metrics that measure the cross-validation between the training set (3) and the evaluation (4) in the validation set.
+    
+A better approach is to look for different values of the hyperparameters of a model and select a subset of the resulting models that achieve the best performance for a given data set. This is called hyperparametric optimization or hyperparameter tuning and is available in Scikit-Learn Python Machine Learning Library.
+    
+Hyperparameters are short for various parameter values that can be used to control the learning process and can have a significant impact on the performance of a machine learning model. A hyperparameter is a point of choice in the configuration that allows you to customize the model for a particular task or dataset. As a result, hyperparameter optimization consists of a single set of powerful hyperparameters that you can use to configure your model.
+    
+Hyperparameter optimization is the process of finding the right combination of hyperparameter values in order to achieve the maximum performance of the data in a reasonable period of time. This process plays a crucial role in the predictive accuracy of machine learning algorithms. For example, the hyperparameters of a random forest algorithm are the number of estimators, N estimators (maximum depth) and maximum depth criteria.
+    
+The parameters referred to as hyperparameters define the performance of a machine learning algorithm or model depending on the problem that we are trying to solve. For example, the regularization constant C of the support vector machine (SVM) and the kernel coefficient G must be optimized. The process of finding the best set of parameters is called hyperparameter optimization.
+    
+The Hyperopt package uses a form of Bayes’ optimization and parameter tuning that allows us to obtain the best parameters for a particular model. Bayesian optimizations work on continuous hyperparameters, not categorical ones.
+    
+The hyper-parameter optimization algorithms are divided into three main categories: exhaustive search space, surrogate model algorithms, and a mix of ideas from the two previous categories devoted to hyper-parameter matching. In these algorithms, the search space is defined by a series of limited hyperparameters, adding knowledge of the hyperparameters to the set of unequal distributions searched.
+    
+To choose a parameter for the grid search, we look at all the parameters and work with a random search in the form of a grid based on it to see if we can find a better combination. With the grid search we create a network of hyperparameters and train and test our model on all possible combinations. The algorithm initiates the learning of hyperparameter configurations and selects the best ones at the end.
+    
+It is a Bayes - optimization algorithm for hyperparameter tuning (TPE, GP Tuner, Metis Tuner and Bohb, and more). Due to the small number of hyperparameters that influence the final performance of the machine learning algorithm, it surpasses the raster search. It is a method of hyperparameter setting that includes exhaustive search, heuristic search and Bayesian optimization (RL-based).
+    
+The Vizier AI platform is a black box optimization service for fine-tuning hyperparameters of complex machine learning models. It does not optimize the output of your models by tuning hyperparameters of the model itself, but it uses coordinated parameter functions.
+    
+This page describes the concepts of hyperparameter tuning and the automated model amplifier provided by the AI platform for training. Hyperparameters in AI models are levers that can be adjusted to influence training time, performance, and accuracy to create a better model. When you perform hyperparameter tuning on a similar model, changing the lens function or adding a new input column during training on the AI platform can improve time and coordinate hyperparameters more efficiently.
+    
+Hyperparameter tuning, AI Platform Training's automated model enhancer, uses Google Cloud's processing infrastructure to test various hyperparameter configurations while you train your model. When selecting the best hyperparameters for the next training job, hyper-parameter tuning should be taken into account, as this is a well-known problem.
+    
+Linda and her team found that the same hyperparameters are unlikely to perform best in all areas when the same machine learning algorithm is applied to different areas such as rankings, predicting similarity at home, predicting email clicks, etc. One advantage of random search is that when two hyperparameters are strongly correlated, it is possible to find the optimum for each parameter as shown in the figure below. The same algorithm works well for tuning hyperparameters to clean data with less noise.
+    
+It uses various algorithms such as grid search, random search and Bayesian evolutionary algorithms to find the optimal hyperparameter values. The objective function is to decide on a sample for the upcoming study and return a numerical value for the performance of the hyperparameters. The official documentation for Hyperopt is a Python library for serial parallel optimization of cumbersome search spaces, including values with discrete conditional dimensions.
+
+
+Identify The Type Of Machine Learning Model
+
+    
+Supported vector machine algorithms are supervised learning models that analyze data using classification and regression analysis. They filter the data into categories, which is achieved by providing a series of training examples in which each set is categorized as belonging to one of the other two categories. The k-means clustering algorithm works by finding groups of unmarked data, where the number of groups is represented by the variable k. It works by assigning data points to one or more "groups" based on the attributes provided.
+    
+Supported vector machine algorithms work by creating a model that assigns new values to one category or another. Such algorithms try to find intrinsic patterns in the hidden structure of the data. When a machine is shown a ton of data, it can learn patterns and make future predictions by recognizing new patterns that suggest different classes of data.
+    
+A basic understanding of the different types of algorithms will help you choose the appropriate algorithm for your project and will help you understand the wide variety of problems in AI that can be solved by machine learning. Machine learning algorithms are often referred to as monitored machine learning algorithms because they learn to make predictions based on a given example of input data and the model is monitored so that the correct algorithm predicts the expected target output of the training data set. A machine learning algorithm can also be described as a supervised machine learning algorithm if it is designed for supervised problems of machine learning.
+    
+In other words, an unsupervised learning algorithm can be imagined as a model that learns from test data itself, one that learns without a teacher or training data. In this type of machine learning the task is performed in a particular environment by an agent and the agent receives rewards or punishments for the task performed. They understand that a dog fulfills a target task when a person commands it and rewards it with a treat.
+    
+In a machine learning model, the output of a training process is defined as a mathematical representation of a real process. In training, for example, one or more inputs are desired, the output of which is known as a monitoring signal. A human expert acts as a teacher where we feed the computer training data with inputs and predictors and show him the right answers and outputs of the data so he can learn the patterns.
+    
+Machine learning depends on the type of task: classification of classification models, regression models, clusters, dimension reduction, principal component analysis, etc. A machine learning model is a file which is trained to recognize certain types of patterns. Machine learning algorithms find patterns in the training data set using an approximate target function responsible for mapping the input with the output of the available data set.
+    
+You train a model based on a set of data and provide it with an algorithm that enables it to think about these data and learn from them. Supervised learning describes a class of problems in which a model is used to learn the mapping between a input (for example a target variable) and something else.
+    
+The use of training data consisting of examples, input vectors and the corresponding target vectors is known as a supervised learning problem. A monitored learning model is labeled with test data, which predict the trained model based on the labels of the training data. For prediction purposes a model is used tailored to training input and output data and a test set of inputs provided by the output of the model with the retained target variable is compared with the model and used to estimate the capabilities of the trained models.
+    
+Depending on the data types used, supervised learning models can be further divided into regression and classification models. Unsupervised learning models require that we use the training data to find hidden patterns in the grouping of data. Finally, reinforcement learning models are defined as those in which an actor performs a task in the environment based on a reward.
+    
+Assisted learning can be classified as regression, classification, prognosis or anomaly detection. Semi-supervised learning is used for classification, which is the process of identifying databases and clusters, a process of grouping databases into different parts. From data consisting of input data, historical labels and answers, unsupervised learning outcomes can be used to develop predictive models.
+    
+For example, a customer list or a series of unlabeled photos could serve as input data for an unattended learning application. The most common use of unsupervised learning is in cluster association problems.
+    
+Clustering creates a model that groups objects based on certain properties such as color. In terms of machine learning, classification is a task that predicts the type or class of an object from a finite number of options. For example, predicting email spam is not a standard binary classification task.
+    
+Regression analysis focuses on a dependent variable and a number of other changing variables, making it useful for predictions and forecasts. An algorithm that ages over time increases the accuracy of its prediction output is said to have learned to perform a task better. This aspect is called data input and is not based on the algorithm, but on the unattended terms that have emerged.
+    
+Data analysis using a trial-and-error-based approach becomes impossible if the data set is large and heterogeneous. By developing efficient algorithms and data-driven models for real-time data processing, machine learning can deliver accurate analysis results. Developing models is not a one-size-fits-all affair, as there are different types of machine learning for different business objectives and data sets.
+    
+For example, a simple linear regression algorithm might be easier to train and implement than other machine learning algorithms, but it can’t add value to models that require more complex predictions. The following nine machine learning algorithms are among the most popular and are often used to form business models.
+    
+The biggest difference between the two is that supervised learning uses marked data, while unsupervised learning feeds on unmarked data. The data must be labeled for this type of work, but supervised learning is powerful when used in the right circumstances. Knowing how to mark data is known as learning, and how to control successful execution is monitored.
+    
+In unsupervised learning, the training data is unknown or unmarked, which means that no one can see it. A limited number of selected sample data is the result that the trained model receives the task from marked or unmarked data. Due to the limitations of this data set, the results are considered as pseudo-marked data.
+
+Model Building
+  
+You will find a wide variety of models in many different skill levels to accommodate any builder. Each model and boat set is equipped with colour-coded templates that make the construction process simple and easy to follow.
+    
+Modelling is a hobby that involves creating a physical model from a kit of materials and components purchased by the builder. Each kit contains several parts that have to be assembled to make the final model.
+    
+The characteristic feature of a model kit is that it consists of several small parts that have to be assembled to produce a final product. The kits we sell at Hobby Toy Central are made of a variety of materials, including plastic, metal, wood and balsa wood. Depending on the material, the model can be assembled with glue, screws, small nails or a combination of these.
+    
+The most common kits found are scale plastic models of cars, trucks and military vehicles, as well as figures of ships, boats and aircraft. Most model kits have to be painted before they appear in their box. Airfix model kits require glue to paint their Level 1 and Level 2.
+    
+Once you get that out of the way, the next thing you have to do is determine what size is a good start. Scale indicates how much the model shrinks in relation to the size of the original. Most categories of models have a set of common scales which make each type of model easy for the average person to complete and display.
+    
+Interactive strategies for empirical modeling [1] use spatially oriented methods to estimate model accuracy and identify incorrect data. These methods are based on special projections that make it possible to investigate partial dependency reactions to selected exploratory variables.
+    
+Empirical modeling has become established with increasing complexity and structuring of model systems (see Fig. Empirical models are constructed with prediction (the ability of the model to adjust the data of an approximation) and predictive capability (predicting how well the model is structured in accordance with fact theory) in mind.
+    
+In many cases, it is impossible to create a mathematical model based on the available information about the system studied. Data-based (multiple linear and nonlinear) modeling is more complex in practice. In these cases, interactive approaches to empirical modelling are more attractive.
+    
+Transparency in the design and construction of models is the key to creating models that are easy to understand and maintain. Compliance with these practices enables new workspace administrators to gain an understanding of data flow, calculations, and user interfaces. Modelling is indispensable for the pursuit of scientific knowledge and, as such, a central practice that is applied in all scientific disciplines.
+    
+In the previous chapter you learnt how linear models work and developed the basic tools to understand what models tell you about your data. This chapter focuses on real data and shows you how to create models to improve your understanding of this data.
+    
+Collecting modelling material is an essential component of modelling on a global scale. If there is one thing that discourages modelers from their hobby, it is the cost of model kits and the materials necessary.
+    
+Amateur hobbyists will not finish their models flawlessly, so it is best to start with an inexpensive kit. You will have to build up your skills and you will make many mistakes. Size and scale are two things that often come up when it comes to model making.
+    
+Uncomplicated kits are the right choice for young hobbyists up to preschool age. Junior kits help children gain their first experience in model making and train their fine motor skills.
+    
+Modelling fans know that balsa wood is an indispensable material for their craft. The material, derived from the tree of the same name, is light, has a minimal grain, favours its softness and can be easily carved into almost any shape.
+    
+Since balsa wood is not only widely used as a commercial material, but also as a craft material, it is available in various shapes and sizes. For lighter creations with thicker balsa wood, this is a great option if you are looking for a simple set of balsa wood panels.
+    
+A small amount is enough for permanent membership, but you can add more if needed. A subset can be controlled as a separate model and updated as part of a list of imports. It can be maintained independently of the model, so consider creating a module to manage it in the same way that we use modules to maintain attribute lists.
+    
+Dashboards can be used to provide a simple interface for model administrators to keep their models running. Use buttons and text boxes to gain access to processes and to get instructions to guide administrators through the maintenance of the model.
+    
+Before you start connecting modules, consider how this can be translated into a model map. You should consider the implications of the model map when creating new modules and formulas, rather than trying to construct a one-sided data flow.
+    
+In the step-by-step procedure, the linearization of a nonlinear mixing effect model is evaluated using simulation covariates from the real data set. It is a linear mixing effect model with population projections and their derivatives in relation to the parameters specified in the model covariate.
+
+Identify The Model Assumptions
+
+    
+In R, a model fit is called a Model Fit function (in our case, LM), and the formula object that describes the model is the DataFrame object that contains the variables used in the model. The model is a simplified version of reality, but machine learning models do not differ that much.
+    
+Each statistical model contains a number of assumptions, and a violation of any of these assumptions renders the conclusions drawn from the model irrelevant or invalid. For this reason, it is important to check whether the assumptions of your models are at least tenable with your data. When we create a model, we have to make assumptions, and if the assumptions are not verified and fulfilled, we are in trouble.
+    
+To verify this, statisticians recommend checking the distribution of model residuals (the difference between the actual data and the model pass values). There are different techniques for different assumptions of models and additional model verification diagrams are required; so be sure to consult a good reference for the specific technique you want to use. No method is better at telling you which model assumptions don't fit than the model assumptions themselves.
+    
+Drawn residuals with predicted values are useful to verify assumptions about linearity and homoscedasticity. It is recommended to look at the effects of parcels containing some residues. To test the normality of the residuals, QQ records the homogeneity of the variance and uses standardized Pearson residuals to generalize linear models and standardized residuals for linear models.
+    
+If the model does not correspond to the linear model assumption, we can see that the residuals assume a clearly defined shape with a distinctive pattern. It is well known that residuals add up to zero and that they are not independent of each other, so this plot is a rough approximation. In most cases, fit values are estimated by the conditional mean according to the model, but it is not uncommon for conditional variance to depend on mean and increase with mean.
+    
+When looking at a simple linear regression model, it is important to check whether the linearity assumption depends on the fact that the mean reaction of the variable is a linear function of the predictor variable. The model refers a continuous predictor to a continuous result in the form of a straight line or a random scattering of straight lines. If the model estimates form a linear relationship with the data, but the relationship is not linear, then the model estimate is not relevant.
+    
+The linearity of linear regression is based on the assumption that your model is linear, which is shocking. Violating this assumption is serious, as it means that your linear model will do a poor job predicting your actual nonlinear data. The best estimate of the parameter beta in a regression equation is the rest of the population, which is linear.
+    
+This suggests that we assume a linear relationship between the predictor and the result variable. The presence of this pattern suggests a problem with this aspect of the linear model.
+    
+The easiest way to detect heteroscedasticity is to create a suitable residual diagram. Once you adjust the regression line to a dataset, you can create a scatter plot showing the fit value of the model and the remnants of the fit. Note that the remainder of the diagram specifies the nonlinear relationship between the data, so the simplest approach is to use a nonlinear transformation of the predictors such as log (x) and sqrt (x, x ^ 2) in the regression model.
+    
+The homogeneity and variance assumptions can be verified by examining the scale of the location diagram (also known as the scatter location diagram). It can be seen that the variability in variance of residuals indicates an increase in the value of the adjusted results variables, which indicates that there is a non-constant variance in residual error due to heteroscedasticity. The scatter diagram below shows a typical fit value compared to the residual diagram, in which heterosis edasticity is present.
+    
+The normal probability diagram of the residuals follows a straight line. The residual pass values are checked against the constant deviation of the residual linearity and the association between predictor and result using the straight line and the random-looking scatter graph. For the normality residuals, the QQ diagram of the residuals can be used to check the normality assumption.
+    
+Backlogs vs. The use of certain observations can lead to abnormal residual distributions, violate assumptions, and distort statistical tests. Normal Q-to-Q diagram to check the assumption of evenly distributed residuals. Root Standardized Residual vs. The roots of standardized residuals and installation values have similar numbers (1) on the y-axis, but the residuals have different metrics (note the case of the 4, 18, and 38 labels in our first illustration).
+    
+Refit your model by simulating the data set and extracting the leftovers from the model. The rejection of null p indicates a nonlinear relationship between one or more of your xs and ys. This means that you should use alternative modeling techniques or add additional transformations to your model to match the data structure.
+    
+The absolute values of the residuals and their corresponding fit values (in LaTeX) on the left and the display style on the right in LaTeX are shown in Figure 2. In a normal probability graph of residuals, we tend to worry less about residuals that seem to be outliers, as this suggests a long-term distribution of these residuals. However, if the action shows minor irregularities, outliers can be a cause for concern.
+    
+The Q-Q diagram (short for quantile diagram) is a kind of diagram by which we can determine whether the remnants of a model follow a normal distribution or not.
+
+Model Measurement & Evaluation
+
+    
+Another reason why the Return on Investment (ROI) of training does not work is that there are processes that include measurements of effectiveness. To help meet this challenge, start by examining the results in a clear and evidence-based way: learning assessment models provide a structured approach to evaluating the impact of your learning strategies. One of the most common forms of education evaluation is the simple appraisal form for learners, ahappy sheet.a This is our clearest indication of where the problem lies.
+    
+Since data preparation and training of machine learning models is an important step in the pipeline of machine learning, it is important to measure the performance of these models. Value learning models help you find the right measures that are tailored to the needs of your organization. In each model you will find aspects of the different models that you choose depending on your individual business objectives.
+    
+By using different metrics to evaluate performance, we are better positioned to improve the overall predictive power of our model when we bring it into production with invisible data. Machine learning models that generalize to invisible data are defined as adaptive or non-adaptive models of machine learning.
+    
+Model evaluation metrics are used to assess a model's adaptability to data by comparing different models in the context of model selection to predict whether predictions associated with a particular model on a dataset can be correct. A general framework for assessing and reducing sources of variance is called analysis of variance. Confidence intervals are used to assess how reliable a statistical estimate is.
+    
+LIFT measures the effectiveness of a classification model by calculating the ratio of results obtained by the model. This measure of the effectiveness of the model is calculated as the ratio of the results from the model to the profit.
+    
+The following are described as commonly used yardsticks for measuring model quality. Quality and accuracy require the assertion that the model reflects business intentions. Accuracy describes the relationship between the model and the business area it represents.
+    
+Failure to properly evaluate ML models, which use different metrics depending on accuracy, can lead to a problem when the model is used on invisible data, leading to poor predictions. This happens in cases where our model has not learned or memorized anything and cannot be generalized to invisible data.
+    
+The third major obstacle to demonstrating the value of PR is that the measurement and evaluation process often looks like something done in the past. Measurement and evaluation are often seen as little more than an exercise in self-justification. It gives the organisation nothing more than an ex post performance review of the work done.
+    
+The current demand for performance-based evaluation is partly a consequence of the inappropriate use of standards-based performance tests. The use of performance-based testing does not eliminate the negative consequences of high-stakes testing, but supports the hope for change in schools.
+    
+The same assessment tools can also be applied to other injury prevention and mitigation programmes. Evaluation can also be used as a basis for external quality assessments in basic education. In this way, it can provide organizations with a roadmap to improve processes, participants, and outcomes that have a major impact on the organization and the community.
+    
+Every time you train your team, you need to know how effective it is. Kirkpatrick's four-tier appraisal model can help answer these questions. With this model, you can analyze the impact of training and work with your team members to learn how to improve their learning now and in the future.
+    
+The Kirkpatricks system is used as an on-demand evaluation method for training companies and is based on four guidelines. It has been used by many different types of companies for over 30 years and is an important system for evaluating training. In this article, we will examine how Kirkpatrick applies his four-tier appraisal model to education.
+    
+It is clear that Kirkpatrick's vision has a positive impact on the overall practice of appraisals. The goal of this level is simple: it evaluates how a person reacts to the training model by asking questions to establish the thoughts of the trainees.
+    
+Many trainers use the Kirkpatrick Evaluation Model backwards as a guide for developing effective training. They start by determining the results they hope to achieve through training, and then use these results to design a program to achieve them. The final step in your kpatrick model is the phase in which you assess how the behavioral changes affect the company and whether your training investment will result in a good ROI.
+    
+In this section we present results showing a comparison of in situ measurements with 10 models described in the previous section. We also offer a general comparison of the scattering improvement measures of 22 sites (Burgos eta., al. This is a temporal collocation of model and measurement data on a climatological basis.
+    
+Data from the previous layer will be used as the basis for the following analysis levels. The results of subsequent stages provide more accurate measurements, but the usefulness of the training requires more time-consuming and demanding evaluations.
+    
+To the right of the annual cycle diagram in Fig.A 4, the Taylor diagram (Taylor, 2001) shows the skills model at three locations where the model results are related to time-space measurements. The model seasonality (or lack thereof) can be easily quantified using this chart, as described below.
+    
+Model Validation
+
+    
+The recent targeted review of the results of internal model trim revealed by the European Central Bank (ECB) in the context of model validation and the introduction of annual validation reporting requirements are two events indicating an increasing focus on the modeling validation frameworks used by banks. In November 2018 and July 2019 the ECB revised its Guide to Internal Models which sets out a number of requirements for validation of models in its general themes and risk-specific chapters. With regard to the results of the on-site inspection (OSIS), which focuses on counterparty credit risk (CCR), it is worth remembering that the Bank of ECBas focuses the CCR chapter in its guidance and other topics on model validation.
+    
+In machine learning, model validation is the process of confirming that models provide satisfactory results for input data that are consistent with qualitative and quantitative objectives. Against this backdrop and given banks "an increasing reliance on models in their decision-making, it is crucial for banks to establish a robust model validation framework that protects them from the consequences of misleading models outcomes. According to the American Academy of Actuaries, "Model validation is a practice of conducting an independent, challenging and thorough evaluation of the adequacy and appropriateness of a model based on peer review and testing in multiple dimensions.
+    
+Model validation is the verification to ensure the effectiveness and accuracy of trained models in preparation for use. Model validation consists of a series of proven processes and is a heterogeneous process that cannot be defined or characterized in general, and the application of models creates opportunities for creativity and ingenuity. In statistics, the task is to confirm that the output of a statistical model is acceptable in relation to the real data generated.
+    
+In other words, the validation of models is to confirm that the results of a statistical model are sufficiently consistent with the results of the real data generation process to achieve the objective of the study. The framework of the model and the available data can influence the validation approach. In some cases, validation approaches involve comparing models that predict fluctuations achieved by a radio frequency measurement system over a 30-day period.
+    
+Model Validation Method Description Comparison with other models Different results The results of a simulation of a model are validated by comparing the results with those of other valid models. A strong correlation between the simulation results and empirical evidence creates confidence in the model that the system conditions are similar to the framework and assumptions of the models. A variety of methods are used to validate simulation models from comparison with other models to the use of data generated by the actual predictive validation system.
+    
+The validation ensures that developers have confidence in the performance of the model. Sensitivity tests are included in the validation process to ensure that different independent model variables are taken into account to a certain extent and that the economic ups and downs of dependent variables are not affected to an extreme extent that renders the model unusable. Model performance is also analyzed using historical data, which we call back testing.
+    
+There are other reviews of the model that we carry out as part of sampling validation, most of which involve reviewing the assumptions on which the model is based. If these assumptions are not fulfilled, the validity of the results of the model may be called into question. Sampling refers to the use of new data that is not found in the data set used to create the model (e.g.
+    
+In addition to these risks, models are also vulnerable to errors in certain input data, even when presented in the training kit. These errors may be due to errors in model binding or data conversion. If a class error is possible, it is important to check that the record covers all data inputs that the model must evaluate, otherwise you may lose the model validation.
+    
+Sometimes we want to consider how a model behaves in different settings. In our marketing model, for example, we want to know how the model behaves for different population groups at different times. If 0 is entered into the field in this example, the expected rating would be 1 to 5.
+    
+The best use of models is to examine the relationship between forces, factors and ecosystem characteristics, such as the general trends associated with river discharge, nutrient pollution and the extent of hypoxia discussed above (see the last section of the article of 9.1.19). The most common application of the hypoxia model is to investigate the influence of nutrient pollution on river discharges (as is the case with the ER model). For more complex models, there may be a discrepancy between model capabilities and supporting data.
+    
+Special methods for validation are available for some classes of statistical models. Data-driven approaches to model validation and predictive validation are the most commonly used methods with the exception of the face validation method described in Table 1. The expert opinion is based on a Turing-like test, in which an expert is presented with real data relating to the model edition and asked to distinguish between them.
+    
+Model validation is the machine learning phase that quantifies the ability of a statistical ML model to generate predictions and results with sufficient accuracy to achieve business goals. The model validation quantifies what performance is expected from a particular machine learning model from invisible data. If data-driven model validation is not feasible or practical for you, it can be done manually, or you can hire a facial validation expert to review the first steps of the validation phase.
+
+
+
+    
+

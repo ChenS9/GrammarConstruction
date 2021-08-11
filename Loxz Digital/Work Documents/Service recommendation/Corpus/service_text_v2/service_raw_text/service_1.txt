@@ -1,0 +1,192 @@
+
+Data Preparation & Identify Problem Statement
+
+    
+Although the specific process of data preparation differs by industry and organization, the framework remains the same. In Module 1, analysts use system performance measurements and early diagnostic activities to develop preliminary analytical problem statements, prioritize and identify problem statements, and develop risk / reward project testing approaches. The scope of the project included in module 2 includes the detailed project definition and identification of project-specific performance measures, refinement of mitigation strategies and data needs, tool selection and cost and schedule estimates.
+    
+Data preparation is a tedious endeavor for data experts and business users but it is an essential prerequisite for putting data in context, transforming it into insights and eliminating prejudices that lead to poor data quality. Examples of data processing processes are the standardization of data formats, the enrichment of data sources and the elimination of outliers. Although data preparation was originally focused on analysis, it has evolved to address a wider range of use cases used by a larger number of users.
+    
+The options for the data transformation are listed below: Data transformation: Data scaling: Data duplication / redundancy: Data preparation Remove / organize: Data processing The task of a data dispute is described first to understand the data and then examined which approach suits best. Future-proof cloud data preparation is all about improving new capabilities and problems that have been fixed and transforming them into releases.
+    
+Data analysis is an important step in the marketing research process in which data is organized, checked, verified and interpreted. The data is processed, encoded, transcribed and verified before being analyzed at this stage of the research process. Verification ensures that the data from the original questionnaire is transcribed prior to data analysis and gives meaning to the collected data.
+    
+Collecting data is a critical step in the research process because it allows the generation of insights that influence marketing strategies. Data collection involves field staff (staff working on the ground), in this case face-to-face interviews in the office, telephone, mail, traditional post-to-mail, panel interviews and pre-recruited households. The correct selection, training, monitoring and evaluation of field forces helps to minimise errors in data collection.
+    
+Research problems are defined as problem areas in which there are gaps in knowledge or deviations from norms or standards that indicate the need for further understanding and investigation. Research is a systematic process of investigation in which current knowledge is expanded and revised in order to discover new facts. Many problems can be transformed into several solutions, each of which has the means to close the gap or correct the deviations, but difficulties arise when such means are not obvious or are not available.
+    
+Defining the problem is the most difficult part of the entire data analysis process. Defining a problem is one of the most complicated and often neglected phases of the data analysis pipeline. Defining and understanding the problem is crucial to finding and implementing effective solutions.
+    
+It is important to understand that a problem definition defines not only the details of the solution, but also the tasks necessary to achieve the solution. It is an explanation of the problem, the gaps in the problem and the goals you want to achieve. To characterize the problem as a data element and to understand the necessary experience.
+    
+In academic research, writing a problem helps you to contextualize and understand the meaning of your research problem. One of the basic things that is necessary before starting a project is that you write the problem as quickly as possible.
+    
+According to Wikipedia, a problem is a succinct description of the problem that needs to be addressed by a problem-solving team, explaining what the team has created, what it is doing, and how it is trying to solve the problem. A problem can be several paragraphs long and serve as a basis for your research proposal or it can be summarized in a few sentences as an introduction to your thesis or thesis. Problem claims are part of a project charter in project management and define the problem with which the project team and stakeholders should concentrate their attention on solving the problem.
+    
+Regardless of whether the problem concerns road works, logistics or an island construction project, a clear and concise problem definition can be used by the project team to define and understand the problem and to develop possible solutions. With your problem in hand, you are ready to move onto the ideation phase where you turn it into a "we" and get as many possible potential solutions. First of all, you want to create a context that makes it easy to understand what the problem is.
+    
+It will help you articulate your design problem and formulate clear goals for work. Creating a Data Problem Statement for Data Technology In this article, we want stakeholders to address this issue. From providing resources, for example, to involve researchers in your problem, the aim is to steer the problem of data technology towards clearly defined knowledge.
+    
+The most effective way to sell a data science project to a company is to show which kind of business problem it solves and what impact it will have on the company. The most commonly used methodology for advanced analysis projects is to start with a step called problem statement or problem shaping.
+    
+Data analytics is one of the most popular business media websites in the world. Data science is dedicated to the identification of data analysis examples that highlight the inputs of analytics and their use in the creation of problem claims. To increase the frustration of data analysis problem statements, there are a few tips on photography to interpret the conditions around you.
+    
+OpenRefine is an open source software which provides a user-friendly graphic user interface (GUI) to manipulate data according to your problem and simplify the preparation process of data. This library helps data scientists solve complex problems and makes the process more efficient.
+    
+Mr Data Converter is a tool that takes an Excel file as input and converts it into the desired format. It supports conversion between HTML, XML and JSON formats. Here is a short video to help you get a quick overview of what was talked about. XenonStack provides powerful data cleanup for enterprise data quality.
+    
+Data Collection
+
+    
+Surveys are ideal for documenting the perceptions, attitudes, beliefs, and knowledge of a clear, predetermined group of individuals. The collection of data by interviewing the participants is characteristic of many qualitative studies. Interviews offer a direct and straightforward approach to collecting detailed and rich data on a particular phenomenon.
+    
+Data collection is a research component of studies in areas such as physics and social sciences, the humanities [2] and the economy. Data collection is the process of collecting and analyzing information about variables of interest in an established and systematic way that allows to answer the explained research questions, test hypotheses and evaluate the results. This is a process that collects and measures information about targeted variables within an established system, enabling relevant questions to be answered and results to be evaluated.
+    
+Data collection is a systematic approach to collecting and measuring information from a variety of sources in order to obtain a complete and accurate picture of an area of interest. It is an integral part of research common to all disciplines, including physics, social sciences, humanities and business.
+    
+Data collection allows a person or organization to answer relevant questions, evaluate results and make predictions about future probabilities and trends. If you conduct research for business, government or academic purposes, the data collection enables you to gain first-hand knowledge and original insights into your research problems.
+    
+Data collection is defined as a method for collecting, measuring and analysing precise findings for research using standard and validated techniques. Four steps will help you to collect high-quality data that is relevant to your purpose and relevant.
+    
+The aim of data collection is to collect high-quality evidence that will enable an analysis to produce convincing and credible answers to the questions asked. In most cases, it is the first and most important step of research in any field of research. A key goal of data collection is to ensure that information-rich and reliable data for statistical analysis and data-driven decision-making in research are collected.
+    
+Some methods are better for projects that require quantitative data, while others can better detect qualitative data. You can opt for a mixed methodological approach to collect both quantitative and qualitative data at the same time. A combination of techniques for collecting both quantitative and qualitative information could lead to more comprehensive results.
+    
+The choice between primary and secondary data collection depends on the nature and scope of the research area and its objectives. Decide which method is best for your research based on the data you want to collect. Consider which method you will use to collect the data that will help you answer your research questions.
+    
+There are a number of fundamental reasons why researchers collect data. The principal reason for collecting data, whether by quantitative or qualitative means, is to ensure that the integrity of the research is maintained in question. When cross-checking the data collection process, two points must be addressed: data quality at observation level is a problem, and the data quality of the entire data set is also a problem.
+    
+The more relevant and high quality your data is, the more likely you are to make good decisions when it comes to marketing, sales, customer service, product development and many other areas of your business. If you expect in-depth feedback or experience, you should consider conducting a qualitative survey.
+    
+The number of interviews required depends on the research questions and the overall methodology used. The type of interview with which the data are collected should be tailored to the research question, the characteristics of the participants and the preferred approach of the researcher. Many research questions can be answered in a survey and answered in an interview, but interviews can provide richer and deeper data than surveys.
+    
+Open or unstructured interviews are based on a single question in which interviewer and interviewee design the conversation in real time rather than following a set schedule. Personal interviews are worthwhile because the interviewer can tailor the following questions based on the answers of the real-time exchange. This method is subjective, as the researcher or observer must add his or her judgement to the data.
+    
+The main disadvantage of observational data is that it tends to be superficial and does not have the context necessary to provide a complete picture. Observations can be recorded on site or recorded on a mobile device while the observer collects data from the fulcrum.
+    
+Qualitative data can help explain the information that quantitative data reveal. For this reason, qualitative data can be a useful complement to quantitative data and form the basis of your data strategy.
+    
+Although there are many different techniques for gathering various types of quantitative data, there are some basic processes that you should follow regardless of which method of data collection you use. Quantitative data is fundamental, so this article will focus on the methods for collecting quantitative primary data.
+    
+Data collection tools refer to devices or instruments for data collection, such as paper questionnaires or computerized interview systems. Case studies, checklists, interviews, observations, surveys, questionnaires and tools can all be used for data collection.
+    
+Making a list of questions is the key to an efficient interview, as is knowing what to ask. If you collect a significant amount of data, ask what to do.
+    
+The number of groups required may vary depending on the questions and number of participants involved, such as residents, nurses, social workers, pharmacists and patients. The most common is a combination of interviews, surveys, observations, focus groups and data collection methods involving several people. If you track data from a particular campaign, you can track it over a defined period of time.
+    
+Your organization does not need a results framework to justify the purpose, funding or additional support of your programs. A Results Framework defines your project objectives and core focus for your program and helps you find ways to review how your program is progressing and achieving success.
+    
+There are many factors to consider when selecting a method for your evaluation study, including the target audience, the time frame for collecting the data, the cost of the information collected and who will use the method. In one case, female beneficiaries were asked to use images to represent indicators of who is responding to the problems presented in each quadrant.
+
+Introduce Dataset
+
+    
+Data sets are generated by algorithms to test certain types of software. Modern statistical analysis software such as SPSS presents its data in a classical way. If data is missing or suspicious, attribution methods are used to complete the record.
+    
+In machine learning, a common practice is to evaluate an algorithm by dividing the data set into two. We call one set the training in which we learn the characteristics and the other set the test set in which we test the characteristics.
+    
+Load Example DatasetP Scikit-learn contains a few standard datasets including irisdigits dataset for classification and diabetes dataset for regression. In the following we start the Python interpreter in our shell and load the iris dataset.
+    
+Defining Predictive Inputs When creating a dataset for a report, you can guarantee that the predictive model that develops the data will receive the same inputs that it uses in micro-strategy. When you create the dataset, ensure that the attributes and metrics used in the dataset as predictive inputs are also used as inputs into predictive metrics. Remember that predictive metrics are the metrics generated by the model when it is imported into microStrategy.
+    
+Learn objective parameters for the quality of the data set, taking into account reliability, feature representation, availability and service time. Use self-testing to refresh your memory of problem images and verify your assumptions about data collection.
+    
+The model learns from the training data set and generalizes to the old data set. The model does not learn the problem and performs poorly on the original data set and does not perform well on holdout samples. The models learn from the initial data set and perform poorly on it and do not perform as well on random samples.
+    
+Reducing the capacity of the model reduces the likelihood that the model will overfit training data set to the point where it is no longer overfit. If the model still does not fit the dataset, it has sufficient capacity. If a certain sample of training data is under-fit, the model cannot learn the problem.
+    
+The model performs poorly both in the training data set and in the new data. The model performs well in both education and new data, but it still surpasses the problem.
+    
+The monitored ML algorithms are developed from data sets that contain a number of variables relevant to the result. The ability to perform well on unobserved inputs is called generalization.
+    
+For tasks such as image recognition and language processing, variables are processed by feature selectors. Feature selectors select identifiable features from a dataset that contains a number of variables and a relevant result represented by a numerical matrix that is understandable by the algorithm.
+    
+In case of a monitored problem, one or more response variables are stored as target members. This is a simple example of a dataset that illustrates how to start with an original problem and design the data for use by Scikit-Learn. The data is stored as data elements of the n-samples and n-features arrays.
+    
+To get a table view that belongs to a row, you need to create one of the rows and load the data into BigQuery. To load an external record, it is called loading the external record.
+    
+A row is similar to a table except that rows and columns not only contain strings and numbers, but also contain nested data structures such as lists, maps and other rows. To ensure compatibility with Hive and other underlying systems, namespaces and URIs consist of alphanumeric underscores that do not start with a number. Note The URI schema describes the location and type of the various records, while the schema describes the format of the records in the record.
+    
+For example, you can enter your partition definition in Timestmap:: Validation () to capture typos in the timestamp column of the record schema. Dividing is currently optional and not always the most efficient solution.
+    
+One way to define statistical ML techniques is to consider their primary goal. Once you have defined your partition strategy and its JSON format, use it to create your record.
+    
+It is used in science and industry to advance the development of intelligent products that are capable of making accurate predictions based on different data sources [1].
+    
+Public records fuel machine learning research rockets (h / t Andrew Ng) It's difficult to get a public record in your machine learning pipeline. Today we are pleased to introduce TensorFlow Dataset, a GitHub exposed public research dataset (TFDATadataset) that is a NumPy array. It does the tedious work of retrieving the source data and preparing it in a common format on the hard disk. It can be used as an API to build high-performing input pipelines (TensorFlow 2.0) ready to be used with TFkera models.
+    
+Researchers have to go through the agony of writing a script to download and prepare a dataset, and they have to work with different sources, formats, and complexity.
+    
+The production of datasets on the scale of the web implies a certain way of seeing images, dots and names. Annotators are not passive retinas; they are asked to interpret, filter, clean up, and execute tasks at breakneck speed. In the AMT interface, workers are not guided or monitored by their vision-oriented frameworks.
+    
+A visual illustration of the unattended dimension reduction technique is shown in Fig. The figure shows the raw data represented by different shapes (left panel), and the algorithm groups them into clusters of similar data points (right panel).
+
+Data Pre-Processiong
+
+    
+This paper provides a comprehensive overview of conventional and advanced data pre-processing techniques in existing literature. Data pre-processing involves the conversion of raw data into a data set for data mining and analytics to be applied. Conventional data preprocessing tasks such as missing value allocation, outlier detection, data scaling, data reduction, data transformation and data partitioning are checked using the methods discussed here.
+    
+The adequacy or inadequacy of data processing is directly related to the success of a project that includes data analysis. The data must be available in a clean and usable format for machine learning in order to achieve meaningful results. Smooth and loud data are important for ML datasets, as machines cannot use data they cannot interpret.
+    
+The real data is disordered, unstructured and unformatted. It is noisy, incomplete, has missing entries and is not suitable for direct use in building models to solve complex data-related problems. The data is incomplete, contradictory, lacking in certain behaviours and trends, and likely to contain many errors.
+    
+Real-world data is often incomplete, contradictory and / or lacking in certain behaviors or trends and is likely to contain many errors. The data collection process is not perfect, and you may have many irrelevant or missing parts. For example, the construction of operating data exhibits many missing values and outliers because of errors in data acquisition, transmission and storage (Xiao and Fan, 2014; Cui et al., 2018).
+    
+You can choose to ignore parts of the record that have no missing values (so-called tuples). This is possible if you are working with a large dataset and there are several missing values in the same tuple.
+    
+There are two general ways to deal with missing values in built-in operating data. The first is to discard the data samples with missing values because most data mining algorithms cannot process data with missing values. Removing data leads to information loss and does not deliver the expected result of the predicted output.
+    
+We can calculate the mean and median mode of each feature from the numerical data in the year column and the goal column of the home team and replace them with the missing values.
+    
+In some situations, if you are missing data in your dataset, you may need to search for additional datasets to collect more observations. Inconsistencies in data or duplicates can affect the accuracy of results. We may remove such data if we determine that it exists in the record and is caused by user input errors or data corruption.
+    
+When linking two or more records to a database with a large training set, data field mismatches are common. A database can be huge and contain data of all kinds: comments left on social media, numbers coming from analytics dashboards, etc.
+    
+Data pre-processing is a data mining technique by simple definition that converts raw data from various sources into clean, work-ready information. In other words, it is a first step that absorbs available information, organizes it into what it can be, and brings it together. Machine learning processes data pre-processing as a step in which data is transformed and encoded, bringing it to a state where machines can analyze it.
+    
+As already mentioned, the whole purpose of data pre-processing is to encrypt the data in order to get it to a state in which the machine can easily understand it. Feature encoding performs the transformation of the data so that it is accepted as input into the machine learning algorithm while retaining its original meaning. In other words, the data contain features that can be interpreted by the algorithm.
+    
+Pre-processing of data in machine learning refers to the technique of processing, purifying and organizing raw data to make it suitable for building and training machine learning models. Pre-processing is a crucial step to improve the quality of data and promote the extraction of meaningful insights from it. This article aims to introduce the concept and use of pre-processing as an important step in the machine learning process.
+    
+In their journal, Suad A. Alasadi and Wesam S. Bhaya state that data pre-processing is one of the most important data mining steps that deals with the processing and transformation of the searched data set and makes knowledge gathering more efficient. In other words, it can be said that it is a step in data mining that provides us with a technique that helps us to understand the data and discover knowledge at the same time.
+    
+You must pre-process your data before it can be read and understood by machines. It is widely accepted that machine learning and neural networks require a step of data pre-processing. It has developed into a universal technique that can be used in computer technology in general.
+    
+Data pre-processing enables the removal of unwanted data by means of data cleansing and enables users to pre-process data sets containing valuable information at all stages of data manipulation and data mining processes. It turns out that the same data format can be cleaned to obtain precise and reliable results that can be used for machine learning and other models that are much faster than their unprocessed counterparts.
+    
+In our case, the Boston dataset is a standard dataset that we can take and use for any value without worrying about the quality and accuracy of the data. In the real world, however, data sets are much more complex, and these measures must be taken into account.
+    
+Interpolation is the process of using a known data value to estimate an unknown data value. The purpose of data validation is to assess whether the data is complete and correct.
+    
+The aim of data imputation is to correct input errors or missing values in the programming of business processes (BPA). If you use data sets to train machine learning, you may have heard the phrase garbage in, garbage out, which means that if you use bad or dirty data to train your model, you end up with a poorly trained model that is not relevant to your analysis. Good data pre-processing is important for powerful algorithms, but the point is that machine learning with bad data can be detrimental to the analysis you want to do and can give you trash results.
+
+Data Description & Data Exploration Report
+
+    
+Data preparation involves collecting, cleaning and consolidating data into files for analysis. It is necessary to collect data from different sources, regardless of whether they are catalogs, ad hoc files or add-ons. We will discuss the standard data processing procedures that companies follow.
+    
+The essential steps for data exploration are variable identification, univariate analysis and bivariate analysis (read more about it here) and the tools used to acquire knowledge about your data set. It is a tedious first step to process the data before you can begin to gain interesting insights, but it is a necessary evil. It begins by exploring a large amount of unstructured data and searching for patterns, features and landmarks.
+    
+Understanding business data is critical to making plans and decisions, and includes summarizing the most important features of a data set, such as size, shape, features, accuracy and more. Data exploration is the first step in data analysis and involves the use of data visualization tools and statistical techniques to uncover the characteristics and initial patterns of data sets. Summarizing the size and accuracy of the initial patterns in a large amount of unstructured data is the key to deeper analysis.
+    
+Data exploration techniques, including manual analysis and automated data exploration software solutions, investigate and identify relationships between different data variables, the structure of the data set and the presence of outliers in the distribution of data values allowing data analysts to gain greater insight from the raw data. In data exploration, raw data is checked in combination with a manual workflow or automated data exploration techniques to examine the dataset and look for similarities, patterns and outliers to identify relationships between different variables. Also known as exploratory data analysis, statistical techniques are used to analyze raw data sets and search for their general characteristics.
+    
+GIS (Geographic Information System) is a data collection and analysis framework that connects geographic locations and their relationship to human and natural activities on Earth. Data exploration approaches are similar to the initial data analysis, as data analysts use visual exploration to understand the data set and data properties instead of traditional data management systems. Data mining is a special process carried out by data experts.
+    
+There are a variety of proprietary and automated data discovery solutions including business intelligence tools, data visualization software, data processing software and vendor data exploration platforms. Open Source Data Exploration Tools include regression and visualization capabilities that help companies integrate multiple data sources and enable faster data exploration. Most data analysis programs include visualization tools and plotting functions that accelerate exploration from the outset and help reduce unnecessary data root information and distort results in the long term.
+    
+Use a data analysis tool such as Microsoft Power BI, Qlik or Tableau. Such tools examine thousands of metrics in your data, compare them with each other and search for correlations. They also analyze the data points in the metrics to look for unexpected events.
+    
+Using the right tools and techniques for data exploration can produce a wealth of information and insights. The use of various methods of data exploration and analysis as well as visualization techniques can ensure that you have a comprehensive understanding of your data. It is known as search and collaboration to find the best answers to the big questions that lie within the data.
+    
+Exploration is not intended to uncover every bit of information contained in a dataset, but rather to help build a broader picture of important trends and points that need to be studied more closely. The ultimate goal of data exploration and analysis is not to create interesting or arbitrary information from a company's data ; it is to uncover actionable insights that can be communicated in a report ready to be used by companies to use more data for decision making. This article describes the main objectives of a data analysis report and guides you through our important tips to remember when writing a report.
+    
+Analysts and modelers first look at the data in the first and most important phase of data analysis and predictive modelling to generate relevant hypotheses and decide on next steps. At this point, analysts aren't sure what to look for in the record at this point in the process. This means spending more time examining the sample to get a better representation of the data set.
+    
+This approach speeds up response time, deepens user understanding and covers more space in less time. Explore offers the company a manageable starting point and an opportunity to address areas of interest. At Kyso, we have built a central knowledge hub where data scientists can publish reports, and we want to learn from this and apply the knowledge (by which we mean the roles) to the entire organization.
+    
+Analysts prefer automated methods such as data visualization tools for their accuracy and quick response. Once the data is clean, it can be offered to third parties such as business intelligence tools for analysis. Kyso provides tools that can be used by data teams in an understandable way and bridges the gap between technical stakeholders and the rest of the organization.
+    
+We decided to focus on building the best possible data presentation tool (Juicebox). Explore the data, understand it, find scenarios and perform analyses. If there are problems with data quality, the data can be corrected and re-recorded.
+    
+Use missing values and outliers, resolve distorted data, and categorize continuous variables into categorical variables. In addition, correlation variables can be identified and normality tests performed. You can learn about EDA, TBL and DF data by inheriting the DataFrame and DataFrame functions from the dlookr package.
+
